@@ -7,7 +7,8 @@ Used for automated testing for web content on the Chrome browser using a Chrome 
 
 # Install on Linux
 
-'# navigate to directory you've downloaded PawClaws to'
+`# navigate to directory you've downloaded PawClaws to`
+
 $ init.sh
 
 ## Install Chrome Extension
